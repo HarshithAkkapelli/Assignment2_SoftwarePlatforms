@@ -1,0 +1,89 @@
+# Compiled class files
+*.class
+
+# Maven build directory
+target/
+
+# Maven wrapper files (if using the Maven Wrapper)
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Mac OS metadata files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.vscode
+
+# Keystore files (for security reasons)
+*.jks
+*.keystore
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Binaries and other executable files
+*.exe
+*.dll
+*.so
+*.o
+*.a
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.rej
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.iml
+*.project
+*.settings
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+
+# Build directories (common ones)
+build/
+dist/
+out/
+deploy/
+
+# Dependency directories (common ones)
+node_modules/
+vendor/
+
+# Cache and session files
+*.cache
+*.sess
+
+
