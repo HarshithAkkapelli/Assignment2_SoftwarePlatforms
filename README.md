@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <strong>Welcome to our project on Microservices and Kubernetes!</strong>
+  <strong>Welcome to our Assignment on Microservices and Kubernetes!</strong>
   <br>
-  Dive deep into our project components and deliverables.
+  Dive deep into our assignment components and deliverables.
 </p>
 
 ---
