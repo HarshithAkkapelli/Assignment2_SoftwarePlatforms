@@ -1,6 +1,3 @@
-# Creating a README.md file with the enhanced content
-
-readme_content = """
 <h1 align="center">
   🚀 CMPE 272 Assignment #2 - Microservices and Kubernetes 🚀
 </h1>
